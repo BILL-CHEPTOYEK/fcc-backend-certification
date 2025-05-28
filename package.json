@@ -3,6 +3,12 @@
 	"author": "CHEPTOYEK BILL",
 	"version": "1.0.0",
 	"description": "A boilerplate project for the freeCodeCamp curriculum.",
+	"keywords": [
+		"freecodecamp",
+		"boilerplate",
+		"npm",
+		"package.json"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},

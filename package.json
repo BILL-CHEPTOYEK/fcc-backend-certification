@@ -1,6 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "CHEPTOYEK BILL",
+	"version": "1.0.0",
+	"description": "A package for learning Back End Development and APIs",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
